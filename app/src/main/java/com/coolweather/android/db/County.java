@@ -2,7 +2,7 @@ package com.coolweather.android.db;
 
 import org.litepal.crud.LitePalSupport;
 
-public class Country extends LitePalSupport {
+public class County extends LitePalSupport {
 
     private int id;
 
